@@ -21,11 +21,11 @@
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel='dns-prefetch' href='http://mljzeqbmohnx.i.optimole.com/' />
+{{-- <link rel='dns-prefetch' href='http://mljzeqbmohnx.i.optimole.com/' />
 
 <link rel='preconnect' href='https://mljzeqbmohnx.i.optimole.com/' />
 <link rel="alternate" type="application/rss+xml" title="Dycoders &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Dycoders &raquo; Comments Feed" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Dycoders &raquo; Comments Feed" href="comments/feed/index.html" /> --}}
 
 @include('front.layouts.components.style')
 

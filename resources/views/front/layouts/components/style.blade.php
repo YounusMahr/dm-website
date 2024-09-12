@@ -52,7 +52,7 @@
 
 
 
-<script src="{{asset('front/assets/f_js/q_mauto/m_0/https_/dycoders.com/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js')}}" defer></script>
+<script src="{{asset('front/assets/f_js/q_mauto/m_0/https_/dycoders.com/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1')}}" defer></script>
 
 <script id="preloader-plus-js-extra">
 var preloader_plus = {"animation_delay":"0","animation_duration":"300"};
